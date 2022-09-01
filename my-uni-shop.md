@@ -536,7 +536,7 @@ image {
 2. 打开终端，切换到项目根目录中，运行如下的命令，初始化本地 Git 仓库：git init
 3. 将所有文件都加入到暂存区：git add .
 4. 本地提交更新：git commit -m "init project"
-5. 远程推送
+5. 远程推送tortoiseGit
 
 ## 六、首页开发(VUE部分)
 
